@@ -1,0 +1,6 @@
+1.1: Introduction - Git and GitHub for Poets
+
+version control
+collaboration
+
+Github is a web server can do version control and collaboration.
