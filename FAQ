@@ -8,3 +8,5 @@ git fetch project-a
 git merge --allow-unrelated-histories project-a/master # or whichever branch you want to merge
 git remote remove project-a
 
+Q: How to remove git repository locally?
+A: Just remove all files and that directory including .git folder within.
