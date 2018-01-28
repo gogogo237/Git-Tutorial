@@ -14,3 +14,6 @@ When you are in vim, press :q to quit.
 git remote -v
 git push origin master
 git pull origin master
+
+1.8: GitHub Pages - Git and GitHub for Poets
+Github can be used to host your website and collaborate with others to imporve your website.
