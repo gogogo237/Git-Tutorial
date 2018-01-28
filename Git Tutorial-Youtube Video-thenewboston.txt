@@ -75,3 +75,5 @@ Git Tutorial - 18 - Pushing to a GitHub Repository
 git remote add githubGitTutorial https://github.com/gogogo237/Git-Tutorial.git
 git remote
 git push -u githubGitTutorial master
+
+Git Tutorial - 20 - Committing Changes to GitHub
