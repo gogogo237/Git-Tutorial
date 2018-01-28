@@ -4,3 +4,7 @@ version control
 collaboration
 
 Github is a web server can do version control and collaboration.
+
+git commit -a //commit all changes
+
+When you are in vim, press :q to quit.
