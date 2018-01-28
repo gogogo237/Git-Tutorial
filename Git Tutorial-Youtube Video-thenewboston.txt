@@ -1,0 +1,77 @@
+thenewboston youtube video
+
+git config --global user.name "gogogo237"                //This command will change my git name.
+git config --global user.email "gogogoarnold@gmail.com"  //This command will change my email.
+git config --list                                        //list all your config settings.
+clear                                                    //clear screen.
+git config user.email                                    //just view user email
+git help
+git help commit                                          //view help for topic commit
+pwd
+
+git init
+
+Git Tutorial - 4 - Commit
+
+ls -al
+git add .
+git commit -m "This is our first commit"
+
+Git Tutorial - 5 - Adding Files and the Commit Log
+
+git log
+git log --author="gogogo237"
+git status    //compare your directory to your commit
+
+Git Tutorial - 6 - Git Workflow
+
+git add gitcomand_T6.txt
+
+Git Tutorial - 7 - How to Edit Files
+
+working copy > staging area > repository
+git add .
+git commit -m "This is how you can edit multiply files"
+
+Git Tutorial - 8 - Viewing the Changes That You Made
+
+This episode will teach you how to view differences of multiply changes files.
+git diff
+
+see the other files that will explain this concept.
+
+Git Tutorial - 9 - Comparing the Staging Area with the Repository
+
+git diff --staged  //this will compare your staged area and the repository.
+
+Git Tutorial - 10 - How to Delete Files
+
+git rm gitcomand_T6.txt //this will not only remove the working copy and also the repository as well.
+
+Git Tutorial - 11 - How to Move and Rename Files
+
+git mv Git\ Tutorial-Youtube\ Video-thenewboston.txt Git\ Tutorial-Youtube\ Video-thenewboston-nv.txt
+
+Git Tutorial - 12 - Working with an Actual Website
+
+Git Tutorial - 13 - How to Commit Directly to the Repository
+
+git commit -am "Git Tutorial - 13 - How to Commit Directly to the Repository"
+
+Git Tutorial - 14 - Checkout this video (Git it?)
+
+git checkout -- Git\ Tutorial-Youtube\ Video-thenewboston.txt
+
+Git Tutorial - 15 - Unstage Files
+
+git reset HEAD Git\ Tutorial-Youtube\ Video-thenewboston.txt
+
+Git Tutorial - 16 - Getting Old Versions from the Repository
+
+git checkout 1d27e -- Git\ Tutorial-Youtube\ Video-thenewboston.txt
+
+Git Tutorial - 18 - Pushing to a GitHub Repository
+
+git remote add githubGitTutorial https://github.com/gogogo237/Git-Tutorial.git
+git remote
+git push -u githubGitTutorial master
