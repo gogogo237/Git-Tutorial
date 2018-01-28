@@ -12,3 +12,5 @@ When you are in vim, press :q to quit.
 1.6: Cloning Repo and Push/Pull - Git and GitHub for Poets
 
 git remote -v
+git push origin master
+git pull origin master
